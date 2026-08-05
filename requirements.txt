@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+h5py
+astropy
+yt
+pyxsim
+soxs
+reproject
+agama
+cluster_generator

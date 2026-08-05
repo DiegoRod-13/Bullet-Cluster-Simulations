@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Simulation data
+*.hdf5
+*.h5
+*.fits
+*.npy
+*.npz
+
+# Runtime files
+*.log
+nohup.out
+
+# Temporary files
+.DS_Store
