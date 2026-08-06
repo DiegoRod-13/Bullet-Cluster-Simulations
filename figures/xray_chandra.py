@@ -57,4 +57,4 @@ ax.contour(lensing_smooth, levels=levels, colors="white", linewidths=1, origin="
 ax.set(xlabel="x [kpc]", ylabel="y [kpc]", xlim=(-half_x, half_x), ylim=(-half_y, half_y), aspect="equal")
 
 fig.savefig(output, dpi=300, bbox_inches="tight", facecolor="white")
-plt.show()
+plt.show()s
