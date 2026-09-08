@@ -32,3 +32,9 @@ pip install -r requirements.txt
 
 Diego Rodríguez
 Ontario Tech University
+
+## 📄 Research Report
+
+**Simulating Dark Matter and Gas in the Bullet Cluster**
+
+[View the full research report](report/Bullet_Cluster_Report.pdf)
